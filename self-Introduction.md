@@ -31,5 +31,5 @@ takahirooo
   - [Amazon](https://amazon.co.jp)・・・私の生活では必須サービスです。
   - yahoo!
 
-*プルリク用に変更*
+*プルリク用に変更!*
 
